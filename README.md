@@ -5,7 +5,7 @@
 - develop more skills 
 - and learn to point myself in the direction where I can make the most positive difference in the world. 
 
-### I have certainly sputtered more than fluttered at times, but I take these following words to heart:
+### I have certainly sputtered more than fluttered at times during this difficult journey, but I take these following words to heart:
 
 >#### Life is long. And it isn't a race.
 >Steven Levitt -- University of Chicago Economist and co-author of *Freakonomics*
