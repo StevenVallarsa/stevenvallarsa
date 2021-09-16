@@ -1,3 +1,5 @@
+<img src="https://github.com/StevenVallarsa/express-generator/blob/main/public/images/GitHubHeader.jpg">
+
 # Well hello there. You found me! 
 ### I'm Steve, an aspiring software developer. I rediscovered my passion for coding in 2018 and am gradually taking flight as I: 
 
