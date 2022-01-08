@@ -1,6 +1,6 @@
 <img src="https://github.com/StevenVallarsa/express-generator/blob/main/public/images/GitHubHeader.jpg">
 
-# Well hello there. You found me! 
+# Hello there! Thanks for dropping in. 
 ### I'm Steve, an aspiring software developer. I rediscovered my passion for coding in 2018 and am gradually taking flight as I: 
 
 - absorb more knowledge
@@ -13,10 +13,10 @@
 >Steven Levitt -- University of Chicago Economist and co-author of *Freakonomics*
 
 ## Elavator Pitch
-After careers in graphic design, sign making and manufacturing production, I reignited my long dormant passion for coding. Starting with a few online courses, I ramped up my education by enrolling in a full-time in-person C# .NET bootcamp to level up my skills. I'm now completing a different bootcamp focusing on the front end to balance my skillset as I look to become a full-stack developer. I bring with me a lifetime of diverse problem-solving experiences that makes me an outstanding candidate to fill an entry-level position where I may be nurtured to quickly grow into more junior- and mid-level roles. I'm open to relocation in the American Mid-West and along the Hwy 401 corridor between Windsor, ON and Montréal, QC in Canada.
+After careers in graphic design, sign making and manufacturing production, I reignited my long dormant passion for coding. Starting with a few online courses, I ramped up my education by successfully completing bootcamps in C# .NET, in full-stack JavaScript web development, as well as having now completed a two-month crash course in Java. I bring with me a lifetime of diverse experiences that makes me an outstanding candidate to fill an entry-level position where I may be nurtured to quickly grow into more junior- and mid-level roles. With dual American and Canadian citizenships, I'm open to relocation in the American Mid-West and along the Hwy 401 corridor between Windsor, ON and Montréal, QC, but remote employment is preferred.
 
 ### FANTASTIC NEWS
-I'll once again be a Canadian resident starting in January 2022, where I can once again enjoy a Tim Hortons double-double in its native environement, as well as devour a Harveys' burger, which I haven't done since the summer of 2019. A special shout out to [mThree](https://www.mthree.com) for making this dream a reality. 
+After 20-1/2 years living in Michigan, I'm once again living in my native Ontario, this time in the Ottawa area.
 
 ## Tech Stack
 
