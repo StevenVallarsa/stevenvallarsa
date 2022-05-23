@@ -13,10 +13,10 @@
 >Steven Levitt -- University of Chicago Economist and co-author of *Freakonomics*
 
 ## Elavator Pitch
-After careers in graphic design, sign making and manufacturing production, I reignited my long dormant passion for coding. Starting with a few online courses, I ramped up my education by successfully completing bootcamps in C# .NET, in full-stack JavaScript web development, as well as having now completed a two-month crash course in Java. I bring with me a lifetime of diverse experiences that makes me an outstanding candidate to fill an entry-level position where I may be nurtured to quickly grow into more junior- and mid-level roles. With dual American and Canadian citizenships, I'm open to relocation in the American Mid-West and along the Hwy 401 corridor between Windsor, ON and Montréal, QC, but remote employment is preferred.
+After careers in graphic design, sign making and manufacturing production, I reignited my long dormant passion for coding. Starting with a few online courses, I ramped up my education by successfully completing bootcamps in C# .NET, in full-stack JavaScript web development, as well training in Java. I bring with me a lifetime of diverse experiences that makes me an outstanding candidate to fill junior roles where I may be nurtured to quickly grow into more mid- and senior-level roles. With dual American and Canadian citizenships, I'm open to relocation in the American Mid-West and along the Hwy 401 corridor between Windsor, ON and Montréal, QC, but remote employment is preferred.
 
-### FANTASTIC NEWS
-After 20-1/2 years living in Michigan, I'm once again living in my native Ontario, this time in the Ottawa area.
+### CURRENTLY
+Working as an L3 Application Support Engineer at FedEx Ground.
 
 ## Tech Stack
 
