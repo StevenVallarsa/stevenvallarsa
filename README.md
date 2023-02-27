@@ -16,7 +16,7 @@
 After careers in graphic design, sign making and manufacturing production, I reignited my long dormant passion for coding. Starting with a few online courses, I ramped up my education by successfully completing bootcamps in C# .NET, in full-stack JavaScript web development, as well training in Java. I bring with me a lifetime of diverse experiences that makes me an outstanding candidate to fill junior roles where I may be nurtured to quickly grow into more mid- and senior-level roles. With dual American and Canadian citizenships, I'm open to relocation in the American Mid-West and along the Hwy 401 corridor between Windsor, ON and Montréal, QC, but remote employment is preferred.
 
 ### CURRENTLY
-Working as an L3 Application Support Engineer at FedEx Ground.
+Working as an Azure PaaS Developer Support Engineer for Apex Systems.
 
 ## Tech Stack
 
