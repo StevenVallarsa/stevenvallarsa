@@ -1,22 +1,17 @@
 <img src="https://github.com/StevenVallarsa/express-generator/blob/main/public/images/GitHubHeader.jpg">
 
 # Hello there! Thanks for dropping in. 
-### I'm Steve, an aspiring software developer. I rediscovered my passion for coding in 2018 and am gradually taking flight as I: 
+### I'm Steve: Software Developer and Azure Support Engineer.
 
-- absorb more knowledge
-- develop more skills 
-- and learn to point myself in the direction where I can make the most positive difference in the world. 
+After careers in graphic design, newspaper publication, sign making and manufacturing production, I reignited my long dormant passion for coding. Starting with some online courses, I ramped up my education by successfully completing bootcamps in C# .NET and in full-stack JavaScript web development, as well corporate training in Java. I bring with me a lifetime of diverse experiences that makes me an outstanding candidate to fill junior roles where I may be nurtured to quickly grow into more mid- and senior-level roles. With dual American and Canadian citizenships, I'm open to relocation in the American Mid-West and along the Hwy 401 corridor between Windsor, ON and Montréal, QC, with remote employment beig preferred.
 
 ### I have certainly sputtered more than fluttered at times during this difficult journey, but I take these following words to heart:
 
 >#### Life is long. And it isn't a race.
 >Steven Levitt -- University of Chicago Economist and co-author of *Freakonomics*
 
-## Elavator Pitch
-After careers in graphic design, sign making and manufacturing production, I reignited my long dormant passion for coding. Starting with a few online courses, I ramped up my education by successfully completing bootcamps in C# .NET, in full-stack JavaScript web development, as well training in Java. I bring with me a lifetime of diverse experiences that makes me an outstanding candidate to fill junior roles where I may be nurtured to quickly grow into more mid- and senior-level roles. With dual American and Canadian citizenships, I'm open to relocation in the American Mid-West and along the Hwy 401 corridor between Windsor, ON and Montréal, QC, but remote employment is preferred.
-
 ### CURRENTLY
-Working as an Azure PaaS Developer Support Engineer for Apex Systems.
+Working as an Azure PaaS Developer Support Engineer for Apex Systems, a Microsoft vendor.
 
 ## Tech Stack
 
